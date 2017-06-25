@@ -1,5 +1,4 @@
-{{{[[[Mistouflet Desktop Environment]]]}}}
-######_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~######
+# Mistouflet Desktop Environment
 
 Created by FuRetHypoThetiK
 
